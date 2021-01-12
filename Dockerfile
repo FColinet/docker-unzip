@@ -1,2 +1,2 @@
-FROM alpine:3.12
-RUN apk install unzip
+FROM alpine:edge
+RUN apk add unzip
